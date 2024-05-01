@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "outDir": "dist",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "rootDir": "src",
+    "target": "ES2021",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
